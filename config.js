@@ -42,60 +42,60 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],//
-['62882016155766', '𝙭𝙧𝙗𝙤𝙩', true]
+['6281228792751', 'Farhan', true],//
+['628882644396', 'Ixora V.2', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorownv2 = '62882016155766'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
+global.nomorbot = '628882644396'
+global.nomorown = '6281228792751'
+global.nomorownv2 = '6281228792751'
+global.nomorown1 = '6281228792751'
+global.nomorown2 = '6281228792751'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.author = 'AbiDev'
-global.namebot = '𝙭𝙧𝙗𝙤𝙩'
-global.wm = '𝙭𝙧𝙗𝙤𝙩'
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝙄𝙓𝙊𝙍𝘼'//nama group kalian
+global.author = 'Farhan'
+global.namebot = 'Ixora V.2'
+global.wm = 'Ixora V.2'
 global.media = 'https://telegra.ph/file/b9c38c34238271d29e86e.jpg'
 global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.wame = 'https://wa.me/6288232154376'
+global.wame = 'https://wa.me/6281228792751'
 global.alllink = `https://youtube.com`
-global.wm2 = ' 𝙭𝙧𝙗𝙤𝙩 '
+global.wm2 = ' Ixora '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙭𝙧𝙗𝙤𝙩`
+global.titlebot = `Ixoraa`
 global.stickpack = 'Created by: '
-global.stickauth = `© 𝙭𝙧𝙗𝙤𝙩`
+global.stickauth = `© Ixora v.2`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '#𝐗𝐑𝐚𝐳'
-global.nameown2 = '𝙭𝙧𝙗𝙤𝙩'
+global.nameown1= '#Ixora'
+global.nameown2 = 'Ixora'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/abityru'//Instagram klian
-global.sgh = 'https://github.com/AbiDev11' //github
-global.tautanwa = 'https://wa.me/6288232154376'
-global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
+global.sig = 'https://instagram.com/kingixoraa_'//Instagram klian
+global.sgh = 'https://github.com/Ixorasn' //github
+global.tautanwa = 'https://wa.me/6281228792751'
+global.sgc = 'https://chat.whatsapp.com/ECqmO8uoENG0wdWRsRndYu' //group whatsapp
 global.syt = '-' //youtube
-global.sytv = 'https://youtu.be/lN-0jnuK2'//link video yt
+global.sytv = 'https://youtu.be/kingixora'//link video yt
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0888232154376'
+global.pdana = '081228792751'
 global.povo = '-'
-global.pgopay = '0888232154376'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
 global.ppulsa = '-'
 global.ppulsa2 = '-'
